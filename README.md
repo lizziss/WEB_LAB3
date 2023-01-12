@@ -3,4 +3,4 @@
 <p>Тема роботи: Робота з JavaScript.Створення тесту для студентів</p>
 <p>Мета роботи: навчитись працювати з об'єктами , класами та об'єктною моделлю документа на мові JavaScript.</p>
 <br>
-<p>Посилання на  <a href="https://github.com/lizziss/WEB_LAB3" target="_blank">сайт </a></p>
+<p>Посилання на  <a href="https://lizziss.github.io/WEB_LAB3/" target="_blank">сайт </a></p>
